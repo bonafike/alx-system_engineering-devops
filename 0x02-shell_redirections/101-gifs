@@ -1,10 +1,4 @@
 #!/bin/bash
-find -type f nane "..gif"
+find -type f name "*.gif" | rev | cut -d "/" -f 1 | cut -d '
 
-                            rev cut -d "/" -٢١
-
-			                                                        cut -d
-
-										 - -f 2- rev LC_ALL-C sort -1
-
-
+ .' -f 2- | rev | LC_ALL=C sort -f
